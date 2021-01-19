@@ -1,0 +1,37 @@
+Initialize engine version: 5.6.7f1 (e80cc3114ac1)
+GfxDevice: creating device client; threaded=1
+d3d11: failed to create device and context (887a0004).
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 7.15.11.7431]
+    Renderer: NVIDIA Quadro NVS 110M
+    Vendor:   NVIDIA
+    VRAM:     560 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=0 NativeShadow=1 DF16=0 INTZ=0 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1 BC4=0 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Ronald\Desktop\Game Development\Unity\Very Old Projects\Snake\Build\Snake 002_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Ronald\Desktop\Game Development\Unity\Very Old Projects\Snake\Build\Snake 002_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Ronald\Desktop\Game Development\Unity\Very Old Projects\Snake\Build\Snake 002_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Ronald\Desktop\Game Development\Unity\Very Old Projects\Snake\Build\Snake 002_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Ronald\Desktop\Game Development\Unity\Very Old Projects\Snake\Build\Snake 002_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Ronald\Desktop\Game Development\Unity\Very Old Projects\Snake\Build\Snake 002_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Ronald\Desktop\Game Development\Unity\Very Old Projects\Snake\Build\Snake 002_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Ronald\Desktop\Game Development\Unity\Very Old Projects\Snake\Build\Snake 002_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.136 seconds
+Platform assembly: C:\Users\Ronald\Desktop\Game Development\Unity\Very Old Projects\Snake\Build\Snake 002_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Ronald\Desktop\Game Development\Unity\Very Old Projects\Snake\Build\Snake 002_Data\Managed\System.dll (this message is harmless)
+desktop: 1440x900 60Hz; virtual: 1440x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+UnloadTime: 5.172181 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 5e0 -> priority: 1 
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 13.987484 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 545.
+Total: 1.447405 ms (FindLiveObjects: 0.130311 ms CreateObjectMapping: 0.113532 ms MarkObjects: 1.130855 ms  DeleteObjects: 0.061520 ms)
+
